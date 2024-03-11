@@ -1,6 +1,33 @@
-# create-svelte
+## Ecommerce With create-svelte Project By shivam singh
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+
+https://github.com/shivamkumarsingh28/Go_svelte_Project/assets/110661272/263b82e7-844e-4b93-85fe-a9df138b6df6
+
+
+- **Home Page**
+```bash
+http://localhost:5173/
+```
+(https://github.com/shivamkumarsingh28/Go_svelte_Project/blob/main/Frontend/Screencast%20from%202024-03-11%2017-30-02.webm)
+
+- **login Page**
+```bash
+http://localhost:5173/login
+```
+
+
+- **Register Page**
+```bash
+http://localhost:5173/register
+```
+
+
+- **Cart Section**
+```bash
+http://localhost:5173/#cart
+```
+
 
 ## Creating a project
 
@@ -23,6 +50,11 @@ npm run dev
 
 # or start the server and open the app in a new browser tab
 npm run dev -- --open
+```
+
+- **Live Url**
+```bash
+http://localhost:5173/
 ```
 
 ## Building
