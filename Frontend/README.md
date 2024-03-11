@@ -15,6 +15,7 @@ http://localhost:5173/
 ```bash
 http://localhost:5173/login
 ```
+(https://github.com/shivamkumarsingh28/Go_svelte_Project/blob/main/Frontend/Screenshot%20from%202024-03-11%2017-31-57.png?raw=true)
 
 
 - **Register Page**
