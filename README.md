@@ -1,5 +1,9 @@
 
 
+
+https://github.com/shivamkumarsingh28/Go_svelte_Project/assets/110661272/ab98839e-7c32-44fd-9df2-76c3452588db
+
+
 Assignment: E-commerce Platform Development
 Overview:
 Develop a simplified e-commerce platform where users can browse products, add them to a cart, and proceed to checkout. The platform should feature product management, user authentication, cart functionality, and order processing.
