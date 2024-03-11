@@ -9,13 +9,13 @@ https://github.com/shivamkumarsingh28/Go_svelte_Project/assets/110661272/263b82e
 ```bash
 http://localhost:5173/
 ```
-(https://github.com/shivamkumarsingh28/Go_svelte_Project/blob/main/Frontend/Screencast%20from%202024-03-11%2017-30-02.webm)
+![App Screenshot](https://github.com/shivamkumarsingh28/Go_svelte_Project/blob/main/Frontend/Screencast%20from%202024-03-11%2017-30-02.webm)
 
 - **login Page**
 ```bash
 http://localhost:5173/login
 ```
-(https://github.com/shivamkumarsingh28/Go_svelte_Project/blob/main/Frontend/Screenshot%20from%202024-03-11%2017-31-57.png?raw=true)
+![App Screenshot](https://github.com/shivamkumarsingh28/Go_svelte_Project/blob/main/Frontend/Screenshot%20from%202024-03-11%2017-31-57.png?raw=true)
 
 
 - **Register Page**
